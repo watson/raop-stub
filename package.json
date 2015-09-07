@@ -1,0 +1,36 @@
+{
+  "name": "raop-stub",
+  "version": "0.0.0",
+  "description": "Expose a phantom RAOP server on the network",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/raop-stub.git"
+  },
+  "dependencies": {
+    "raop-mdns-server": "^1.0.0",
+    "xtend": "^4.0.0"
+  },
+  "devDependencies": {
+    "standard": "^5.2.1"
+  },
+  "keywords": [
+    "raop",
+    "stub",
+    "phantom",
+    "fantom",
+    "server",
+    "mdns",
+    "broadcast",
+    "fake"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/raop-stub/issues"
+  },
+  "homepage": "https://github.com/watson/raop-stub#readme"
+}
