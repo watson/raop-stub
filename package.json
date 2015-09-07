@@ -1,6 +1,6 @@
 {
   "name": "raop-stub",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Expose a phantom RAOP server on the network",
   "main": "index.js",
   "scripts": {
@@ -32,5 +32,9 @@
   "bugs": {
     "url": "https://github.com/watson/raop-stub/issues"
   },
-  "homepage": "https://github.com/watson/raop-stub#readme"
+  "homepage": "https://github.com/watson/raop-stub#readme",
+  "coordinates": [
+    52.2492344,
+    -7.0602716
+  ]
 }
