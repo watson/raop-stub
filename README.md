@@ -39,8 +39,8 @@ If the `options` argument is a string, it will mean the same as just
 setting `options.name`.
 
 The callback is called when the advertisement have been set up. It's
-called with an optional error object and the txt record that is
-advertised.
+called with an optional error object and a config object containing the
+mac address and the txt record that is advertised.
 
 ## License
 
